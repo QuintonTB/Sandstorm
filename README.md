@@ -1,6 +1,6 @@
 # Sandstorm
 
-# Created_by = [Michael Roudnitski,
+#              Michael Roudnitski,
 #              Daniel Lee,
 #              Brandon Phonpaseuth,
 #              Quinton Bartlett,
