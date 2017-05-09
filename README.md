@@ -1,10 +1,10 @@
 # Sandstorm
-#### A fashion retail e-commerce website
-## Required Software
+##### A fashion retail e-commerce website
+### Required Software
     Python 2.7
     Django
     
-## Created By
+### Created By
     Michael Roudnitski
     Daniel Lee
     Brandon Phonpaseuth
