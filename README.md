@@ -1,6 +1,6 @@
 # Sandstorm
 ##### A fashion retail e-commerce website
-### Required Software
+### Requirements
     Python 2.7
     Django
     
